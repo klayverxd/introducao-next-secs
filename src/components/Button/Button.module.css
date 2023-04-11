@@ -1,0 +1,13 @@
+.button {
+    background-color: rgb(74, 187, 74);
+    color: white;
+    
+    height: 50px;
+
+    border-radius: 30px;
+    border: 0;
+
+    margin-top: 25px;
+
+    width: 40%;
+}
